@@ -5,6 +5,7 @@ T = 0
 low = 0
 high = 10000
 T = (high+low)//2 
+
 Should_be_bigger_than_B = 0 
 
 Smallest_T_at_the_moment = 0

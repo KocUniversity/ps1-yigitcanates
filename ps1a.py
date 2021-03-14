@@ -4,6 +4,7 @@ T = 0
 # your code here
 Should_be_bigger_than_B = 0
 
+
 for a in range(1, 10000):
   T = a
   for i in range(1, (n+1)):  
@@ -24,5 +25,3 @@ if Should_be_bigger_than_B <= B:
 # and make sure that your code does not have any other print statements
 
 print(T)
-
-
