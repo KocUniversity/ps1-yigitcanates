@@ -5,7 +5,7 @@
 
 *StressyMuch* is taking COMP100 course this semester. He is a very hardworking student and wants to get an A+ from this course. Therefore, he needs to study very hard for the midterm and final exams and he needs your help to decide how much time he needs to study.
 
-Like most of us, he feels stressed if he does not study hard enough for the exams. However, it is hard to know how much he needs to study beforehand. Being a good student of math, he comes up with a formula for this. In this formula, we will use his favourite subject, math, and compute the miniumum time `T` he needs to sudy according to a lower bound `B`.
+Like most of us, he feels stressed if he does not study hard enough for the exams. However, it is hard to know how much he needs to study beforehand. Being a good student of math, he comes up with a formula for this. In this formula, we will use his favourite subject, math, and compute the miniumum time `T` he needs to study according to a lower bound `B`.
 
 In particular, *StressyMuch* will feel stressed if he does not work at least `T` hours where `T` is the minimum number that satisfies the following equation:
 
